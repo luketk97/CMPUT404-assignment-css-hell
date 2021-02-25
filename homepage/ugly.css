@@ -14,7 +14,9 @@ h1{
     font-size: 1.5em;
 }
 body{
-    background-color:#08250a;
+    background-image:url(fireworks.jpg);
+    background-size:5%;
+    background-repeat: repeat;
 }
 img{
     border-radius: 12%;
@@ -22,14 +24,12 @@ img{
 }
 .card{
     display: flex;
-    border-radius: 87%;
     background-color:black;
-    width:100%;
+    width:75%;
     height:20em;
     margin-top:15%;
     margin-right: 30%;
     margin-left: 3%;
-    transform: rotate(20deg);
 }
 .profile{
     width: 200px;
@@ -55,12 +55,12 @@ img{
 }
 
 .sidebar{
-    transform: rotate(-20deg);
+    transform: rotate(-10deg);
     height: 80%; 
     width: 200px; 
     position: fixed; 
-    right: 5%;
-    bottom:20%;
+    right: 10%;
+    bottom:15%;
     background-color: #4e003b;
     overflow-x: hidden; 
     text-align: center;
