@@ -21,4 +21,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Code Modification
+=================
+
+1. Removed internal css style in html files.
+2. Changed chapter elements in Alice in wonderland with td tag so that it looks more organized. 
+
+
+
 
