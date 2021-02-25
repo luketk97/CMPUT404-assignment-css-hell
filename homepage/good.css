@@ -1,0 +1,67 @@
+h1, h2, p, ul{
+    color:#051331
+}
+h1{
+    font-size: 1.5em;
+}
+body{
+    background-color:#d4e0fa;
+}
+img{
+    border-radius: 50%;
+    border:2px solid #8db0fa;
+}
+.card{
+    display: flex;
+    background-color:white;
+    width:75%;
+    height:20em;
+    margin-top:15%;
+    margin-right: 30%;
+    margin-left: 3%;
+}
+.profile{
+    width: 200px;
+    margin-left:3%;
+    margin-top:3%;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.bottom-row{
+    display:flex;
+    margin-top:3%;
+    margin-left:5%;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.professional-history{
+    width:30rem;
+}
+
+.skills{
+    width:15rem;
+}
+
+.sidebar{
+    height: 60%; 
+    width: 200px; 
+    position: fixed; 
+    right: 5%;
+    bottom:20%;
+    background-color: #99b9ff;
+    overflow-x: hidden; 
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.sidebar p{
+    text-align:left;
+    padding-left: 2em;
+    padding-right: 1em;
+}
+
+.sidebar h2{
+    padding-top:10%;
+}
